@@ -9,6 +9,8 @@
 #include <string.h>
 #include "hash.h" 
 
+
+
 // hash_jenkins - see header file for usage
 unsigned long
 hash_jenkins(const char* str, const unsigned long mod)
